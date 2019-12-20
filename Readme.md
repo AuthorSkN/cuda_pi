@@ -6,13 +6,13 @@ Calculation Pi number with CUDA. For random values, program uses cuRand.
 
 ## How use
 
-    1. Create executable program
+1. Create executable program
 
     ```console
     make calc_pi
     ```
 
-    2. Run
+2. Run
 
     ```console
     ./calc_pi
